@@ -1,0 +1,73 @@
+/* @theme doc */
+
+@import 'default';
+
+section {
+  font-size: 14px;
+  font-weight: normal;
+  color: black;
+  background-image: none;
+  width: 210mm;
+  height: 297mm;
+  margin-top: 5mm;
+  justify-content: start;
+  padding: 20mm;
+  line-height: 1.6em;
+  /*  text-indent: 1em; */
+  font-family: "Meiryo";
+}
+
+section h1 {
+  font-size: 14px;
+  font-weight: bold;
+  color: black;
+  text-indent: 0em;
+  text-align: left;
+  line-height: 1em;
+  margin: 0em 0em 0.3em 0em; 
+/*  border-bottom: 1px solid black; */
+}
+
+section h2 {
+  font-size: 14px;
+  font-weight: normal;
+  color: black;
+  text-indent: 0em;
+  text-align: right;
+  line-height: 1em;
+  margin: 0em 0em 0.3em 0em; 
+}
+
+section h3 {
+  font-size: 14px;
+  font-weight: normal;
+  color: black;
+  text-indent: 0em;
+  text-align: center;
+  line-height: 1.6em;
+  margin: 0em 0em 0em 0em; 
+}
+
+p {
+	padding-left:2em;
+	text-indent:-2em;
+}
+
+/*
+ぶら下げインデント参考
+p.indent{
+	padding-left:1em;
+	text-indent:-1em;
+}
+p.before{
+	padding-left:1em;
+	position:relative;
+}
+p.before:before{
+	content:"※";
+	position:absolute;
+	left:0;
+	top:0;
+}
+*/
+

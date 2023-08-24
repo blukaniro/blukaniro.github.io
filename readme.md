@@ -1,1 +1,1 @@
-myHP
+new HP
