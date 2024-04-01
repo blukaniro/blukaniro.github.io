@@ -1,10 +1,10 @@
----  
+---
 marp: true
 paginate: false
 theme: doc
----  
+---
 
-## 2022-08-20
+## 2023-03-15
 
 # TAJIMA Ryosuke, Ph.D
 - Agronomist | Modeler | Root scientist
@@ -27,12 +27,14 @@ theme: doc
 # Publications
 - Jung, H., Tajima, R., Ye, R., Hashimoto, N., Yang, Y., Yamamoto, S., Homma, K. 2023. Utilization of UAV Remote Sensing in Plant-Based Field Experiments: A Case Study of the Evaluation of LAI in a Small-Scale Sweetcorn Experiment.Agriculture. 13: 561.
 
+- Nasukawa H., Tajima, R., Maria Clarinda Filomena Pereira, Nakamura S., Fukuda M., Naruo, K., Egami, T., Oya T. and Ito, T. Comparative verification of Mehlich 3 soil analysis methods in Northern Mozambique using microwave plasma–atomic emission spectrometry, Soil Science and Plant Nutrition, 69:5-6, 327-336.
+
 - Ye, Rongling, Ryosuke Tajima, Ayumi Sadaike, Daiki Saito, Momoko Ogawa, Issei Kawamura, Shun Ishimori, Takayuki Nakajima, Toru Uno, Kenichi Kano, Toyoaki Ito, Yoshihisa Suyama, Shin Kato, Akio Kikuchi, Koki Homma. 2023. Mixed cropping of determinate and indeterminate soybean lines enhances productivity. Field Crops Research. 291: 108785.
 
 - Akamatsu Y, Tajima R, Uno T, Ito T, Nishida M and Saito M. 2022. Characterization of root traits for phosphorus deficiency tolerance using chromosome segment substitution lines. Plant Root 16: 21-30.
-
-- Matsuoka-Uno, C., Uno, T., Tajima, R., Ito, T. and Saito, M. 2022. Liming and Phosphate Application Influence Soil Carbon and Nitrogen Mineralization Differently in Response to Temperature Regimes in Allophanic Andosols. Agriculture. 12: 142.
 ---
+- Matsuoka-Uno, C., Uno, T., Tajima, R., Ito, T. and Saito, M. 2022. Liming and Phosphate Application Influence Soil Carbon and Nitrogen Mineralization Differently in Response to Temperature Regimes in Allophanic Andosols. Agriculture. 12: 142.
+
 - Susilawati, P. N., Tajima, R., Giamerti, Y., Yang, Y., Yufdy, M. P., Lubis, I. and Homma, K. 2022. Application of consecutive polyethylene glycol treatments for modeling the seminal root growth of rice under water stress. Scientific Reports. 12: 2096.
 
 - Suzuki, T., Uno, T., Tajima, R., Ito, T. and Saito, M. 2021. Optimum range of soil phosphorus fertility needed for effective arbuscular mycorrhizal inoculation of Welsh onions in a non-allophanic Andosol. Soil Science and Plant Nutrition 67(5): 540-544.
@@ -47,11 +49,11 @@ theme: doc
 - Nasukawa, H., R. Tajima, B. I. J. Muacha, M. C. F. Pereira, K. Naruo, S. Nakamura, M. Fukuda, T. Ito, K. Homma. 2019. Analyzing soil-available phosphorus by the Mehlich-3 extraction method to recommend a phosphorus fertilizer application rate for maize production in northern Mozambique Plant Production Science. 22: 211-214.
 
 - Yamane, K., R. C. Mabesa-Telosa, R. Tajima, N. P. M. C. Banayo, Y. Kato. 2019. A simple, low-cost technique for in situ measurement of leaf P concentration in field-grown rice. Journal of Plant Nutrition and Soil Science. 182(1): 28-30.
-
+---
 - Ito, T., H. Nasukawa, T. Uno, R. Tajima, M. Saito. 2018. Recovery of Tsunami-Affected Paddy Soil Using Calcium Materials for Sustainable Agriculture. Journal of Integrated Field Science. 15. 55-58.
 
 - Tajima R. 2018. Root Phenotyping with Root Modeling- Towards Sustainable Rice Production. Journal of Integrated Field Science. 15. 48-50.
----
+
 - Seto, R., N. Moritsuka, K. Fujisao, A. Toriumi, - K. Homma, R. Tajima, Y. Kato, J. Yamagishi, P. Mekwatanakarn, B. Jongdee. 2018. Mild drying of sandy soil can physically limit the uptake of phosphorus by rainfed lowland rice in northeast Thailand. Soil Science and Plant Nutrition. 64. 677-685.
 
 - Kato, Y., R. Tajima, A. Toriumi, K. Homma, N. Moritsuka, T. Shiraiwa, J. Yamagishi, P. Mekwatanakern, V. Chamarerk, B. Jongdee. 2016. Grain yield and phosphorus uptake of rainfed lowland rice under unsubmerged soil stress. Field Crops Research. 190: 54-59.
@@ -69,11 +71,11 @@ theme: doc
 - Kato, Y., M. Okami, R. Tajima, D. Fujita, and N. Kobayashi 2010. Root response to aerobic conditions in rice, estimated by Comair root length scanner and scanner-based image analysis. Field Crops Research. 118. 194-198.
 
 - Changdee, T., S. Morita, J. Abe, K Ito, R. Tajima and A Polthanee. 2008. Root anatomical responses to waterlogging at seedling stage of three cordage fiber crops. Plant Production Science. 11. 232-237.
-
+---
 - Tajima, R., J. Abe, ON. Lee, S. Morita and A. Lux. 2008. Developmental changes in peanut root structure during root growth and root structure modification by nodulation. Annals of Botany. 101. 491-499.
 
 - Tajima, R., ON. Lee, J. Abe, A. Lux and S. Morita. 2007. Nitrogen-fixing activity of root nodules in relation to their size in peanut (Arachis hypogaea L.). Plant Production Science. 10. 423-429.
----
+
 - Tajima, R., S. Morita and J. Abe. 2006. Distribution Pattern of Root Nodules in Relation to Root Architecture in Two Leading Cultivars of Peanut (Arachis hypogaea L.) in Japan. Plant Production Science. 9. 249-255.
 
 - Kimura, S. D., K. Schmidtke, R. Tajima, K. Yoshida, H. Nakashima and R. Rauber. 2004. Seasonal N uptake and N2 fixation by common and adzuki bean at various spacings. Plant and Soil. 258. 91-101.

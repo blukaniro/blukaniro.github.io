@@ -1,11 +1,15 @@
----  
+---
 marp: true
 paginate: false
 theme: doc
----  
+---
 
-## 2023-08-20
-# 国際学会発表  
+## 2023-03-15
+# 国際学会発表
+- Tajima, R., Hasegawa, T., Nemoto, N., Sakurada, F., Akita, K., Uno, T., Suzuki, K., Ito T., Saito, M., Nishida, M. 2023. Field experiment of organic rice farming in Field Science Center, Tohoku University over ten years. 21th International Symposium of the Integrated Field Science Center/4th International Conference Organic Rice Farming and Production, Sendai (9/Sep/2023)
+
+- Hasegawa, T., Tajima, R., Nishida, M. 2023. Root dynamics in organic rice farming in comparison with conventional farming. 21th International Symposium of the Integrated Field Science Center/4th International Conference Organic Rice Farming and Production, Sendai (9/Sep/2023)
+
 - Suzuki, T., R. Niwa, T. Uno, R. Tajima, T. Ito, S. Sato, H. Hirakawa, S. Yoshida, T. Ezawa, M. Saito. 2019. Effectiveness of AM fungal inoculation on Welsh onion in farmers’ fields. 5th Asian Conference on Plant-Microbe Symbiosis and Nitrogen Fixation, Sendai (15–17/May/2019)
 
 - Matsuzaki, W., T. Uno, R. Tajima, M. Saito, T. Ito. 2018. Environment-friendly Rice Cultivation with Reduction of Pesticide and Chemical Fertilizer Usage in Katsurao Village in Fukushima Prefecture, Japan. 15th International Symposium on Integrated Field Science, Sendai (13-15/Mar/2018)
