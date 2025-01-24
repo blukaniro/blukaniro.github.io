@@ -10,7 +10,9 @@ section {
   width: 210mm;
   height: 297mm;
   margin-top: 5mm;
-  justify-content: start;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
   padding: 20mm;
   line-height: 1.6em;
   /*  text-indent: 1em; */
