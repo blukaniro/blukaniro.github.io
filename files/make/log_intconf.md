@@ -4,12 +4,19 @@ paginate: false
 theme: doc
 ---
 
-## 2023-03-15
+## 2025-03-31
 # 国際学会発表
+Kojima, S., Onozato, T., Tajima, R., Nishida, M. Distribution of Cattle Manure Compost Nitrogen to Plants and Soils in a Paddy Field Crop Rotation System. The 22nd International Symposium on Integrated Field Science, Sendai (14/Mar/2025)
+
+Mori, M., Saito, F., Tajima, R., Nishida, M., Dynamics of Weeds-Derived Nitrogen Returned to Paddy Soils in Organic Farming. The 22nd International Symposium on Integrated Field Science, Sendai (14/Mar/2025)
+
+Tokonami, Y., Aoki, D., Kamiya, T., Tajima, R., Nishida, M. Effect of the Degradation Product from Polycarbonates on Komatsuna (Brassica rapa var. perviridis) Growth. The 22nd International Symposium on Integrated Field Science, Sendai (14/Mar/2025)
+
 - Tajima, R., Hasegawa, T., Nemoto, N., Sakurada, F., Akita, K., Uno, T., Suzuki, K., Ito T., Saito, M., Nishida, M. 2023. Field experiment of organic rice farming in Field Science Center, Tohoku University over ten years. 21th International Symposium of the Integrated Field Science Center/4th International Conference Organic Rice Farming and Production, Sendai (9/Sep/2023)
 
 - Hasegawa, T., Tajima, R., Nishida, M. 2023. Root dynamics in organic rice farming in comparison with conventional farming. 21th International Symposium of the Integrated Field Science Center/4th International Conference Organic Rice Farming and Production, Sendai (9/Sep/2023)
-
+ 
+---
 - Suzuki, T., R. Niwa, T. Uno, R. Tajima, T. Ito, S. Sato, H. Hirakawa, S. Yoshida, T. Ezawa, M. Saito. 2019. Effectiveness of AM fungal inoculation on Welsh onion in farmers’ fields. 5th Asian Conference on Plant-Microbe Symbiosis and Nitrogen Fixation, Sendai (15–17/May/2019)
 
 - Matsuzaki, W., T. Uno, R. Tajima, M. Saito, T. Ito. 2018. Environment-friendly Rice Cultivation with Reduction of Pesticide and Chemical Fertilizer Usage in Katsurao Village in Fukushima Prefecture, Japan. 15th International Symposium on Integrated Field Science, Sendai (13-15/Mar/2018)
@@ -23,11 +30,12 @@ theme: doc
 - Sueki, R., T. Uno, R. Tajima, M. Saito, T. Ito. 2018. The relationship between seedling quality and root system of rice seedling in organic farming analyzing with root modeling. 15th International Symposium on Integrated Field Science, Sendai (13-15/Mar/2018)
 
 - Suga, K., T. Uno, R. Tajima, M. Saito, T. Ito. 2018. Analysis of differences in rice panicle structure between organic and conventional farmings using image analysis technique. 15th International Symposium on Integrated Field Science, Sendai (13-15/Mar/2018)
----
+
 - Suzuki, T., T. Uno, R. Tajima, T. Ito, M. Saito. 2018. Optimum level of soil available phosphorus for AMF inoculation to Welsh onion in non-allophanic Andosol. 15th International Symposium on Integrated Field Science, Sendai (13-15/Mar/2018)
 
 - Suzuki, T., T. Uno, R. Tajima, T. Ito, M. Saito. 2018. Optimum level of soil available phosphorus for AMF inoculation to Welsh onion in non-allophanic Andosol. 6th Symposium on Phosphorus in Soils and Plants, Luvein, Belgium (9–13/Sep/2018)
-
+ 
+---
 - Tajima, R. 2018. Root phenotyping with root modeling: towards sustainable rice production. 15th International Symposium on Integrated Field Science, Sendai (13-15/Mar/2018)
 
 - Uno, T., R. Tajima, T. Ito, M. Saito. 2018. Effectiveness of winter-flooding in organic rice farming and some relating management practices. 15th International Symposium on Integrated Field Science, Sendai (13-15/Mar/2018)
@@ -45,9 +53,10 @@ theme: doc
 - Tajima, R., T. Ito, M. Saito. 2015. The evaluation of root system architecture in rice plant using the data of root distribution. Rhizoshere 4, Maastricht, Netherlands. (21-25/Jun/2015)
 
 - Suzuki, T., R. Tajima, S. Hara, T. Shimizu, T. Uno, T. Ito, M. Saito. 2015. Effect of arbuscular mycorrhizal fungal inoculation on the growth of Welsh onion in soil rich in available phosphate, and characterization of indigenous arbuscular mycorrhizal fungi isolated from the soil. 8th International Conference on Mycorrhiza, Flagstaff, Arizona, USA. (3-7/Aug/2015)
----
-- Hara, S., Shimizu, T., Uno, T., Tajima, R., Ito, T., Saito, M. 2014. Phosphorous Uptake via Am Fungi from Phytate in Organic Matter: Possible Involvement of Phytate Degrading Bacteria. 20th World Congress of Soil Science, Cheju, Korea. (8-13/Jun/2014)
 
+- Hara, S., Shimizu, T., Uno, T., Tajima, R., Ito, T., Saito, M. 2014. Phosphorous Uptake via Am Fungi from Phytate in Organic Matter: Possible Involvement of Phytate Degrading Bacteria. 20th World Congress of Soil Science, Cheju, Korea. (8-13/Jun/2014)
+ 
+---
 - Matsuoka, C., Uno, T., Tajima, R., Ito, T., Saito, M. 2014. Temperature Dependency of Soil Nitrogen Mineralization in an Andosol is Affected by Phosphate Availability. 20th World Congress of Soil Science, Cheju, Korea. (8-13/Jun/2014)
 
 - Hara, S., T. Shimizu, Uno, R. Tajima, T. Ito and M. Saito. 2013. Phosphorus uptake from organic matter via AM fungi -Possible involvement of phyto-degrading bacteria. The 11th International Symposium of Integrated Field Science, Matsushima, Japan. (1-2/Aug/2013)
@@ -67,6 +76,7 @@ theme: doc
 - Akita, T., T. Uno, K. Suzuki, R. Tajima, M. Saito and T. Ito. 2011. Aquatic Biota in Winter Flooded Paddy Field with Organic Farming -Case Study in Field Science Center, Tohoku University, Japan-. 9th International Symposium on Integrated Field Science, Sendai, Japan. (3/Sep/2011).
 
 - Tajima, R., T. Ito and M. Saito. 2009. Nitrogen cycle of agricultural system in Field Science Center, Tohoku University. 7th International Symposium on Integrated Field Science, Sendai, Japan. (10-12/Oct/2009).
+ 
 ---
 - Morihara, Y., R. Tajima, J. Abe and S. Morita. 2007. Effect of dual inoculation with Rhizobium and arbuscular mycorrhizal fungi on root morphology and nodulation in peanut (Arachis hypogaea L.) under field conditions. The 6th Asian Crop Science Association Conference, Queen Sirikit National Convention Center, Bangkok, Thailand. (5-9/Nov/2007). Abstracts of 6th ACSC. pp124.
 
@@ -85,5 +95,3 @@ theme: doc
 - Tajima, R., S. Morita and J. Abe. 2004. Development of root system in peanut (Arachis hypogaea L.) analyzed by root box method. 4th International Crop Science Congress. Brisbane, Queensland, Australia. (26/Sep-01/Oct/2004).
 
 - Kimura S. D., R. Tajima, K. Schmidthe, K. Yoshida, H. Nakashima and R. Rauber. 2001. Nitrogen balance and time course of soil N uptake and N2 fixation of Phaseolus vulgaris L. and Vigna angularis (Willd.) Ohwi& Ohashi. International Conference on Nature Farming and Ecological Balance Hisar, India. (7-10/May/2001)
-
-## end

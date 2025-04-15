@@ -3,8 +3,7 @@ marp: true
 paginate: false
 theme: doc
 ---
-
-## 2025-01-24
+## 2025-04-16
 # 田島 亮介 (たじま りょうすけ)
 - 1977年08月 新潟県新潟市生まれ
 
@@ -27,8 +26,8 @@ theme: doc
     茨城大学大学院大学院農学研究科 非常勤講師 (「作物学特論」担当)
 - 2022年10月-現在:
     東北大学大学院農学研究科 附属複合生態フィールド教育研究センター 准教授
-#
-#
+ 
+---
 # 外部資金獲得状況
 - アフリカの小規模農家における持続可能な気候変動緩和:土壌炭素貯留と温室効果ガス削減
     (JST SICORP AJ- CORE 2024-2026)
@@ -42,7 +41,7 @@ theme: doc
     (科研費 萌芽 代表：2014-2015)
 - モンゴルにおける持続可能な水環境保全と水利用のための遊牧システムの形成
     (科研費 基盤B 分担：2012-2015)
----
+
 - 有機物投入における水稲根系の発生・枯死が生育・収量と炭素貯留に及ぼす影響
     (科研費 若手B 代表：2011-2013)
 - 酸性コンポスト化技術による水産加工廃棄物の高機能性資源化システムの開発
@@ -53,9 +52,8 @@ theme: doc
     (科研費 基盤C 分担：2010-2012)
 - 観光客参加型食べ残しメタン発酵温泉エネツーリズムの構築のための研究
     (環境省 地球環境研究総合推進費 分担：2011-2012)
-
-#
-#
+ 
+---
 # 教育
 # 大学院
 - 植物生命科学合同講義 (修士・博士前期課程)
@@ -77,6 +75,7 @@ theme: doc
 - 農場実習A (植物生命科学コース・資源環境経済学コース)
 - 農場実習B (生物化学コース)
 - 農場実習C (生命化学コース)
+ 
 ---
 # 社会貢献
 # 学会委員等
@@ -100,21 +99,26 @@ theme: doc
 
 # 高校等の講義・実習等
 - 宮城県古川黎明高等学校 学校評議員 (2023年04月-現在)
-- 宮城県仙台向山高等学校 (生物巡検)
+- 宮城県仙台向山高等学校 生物巡検 (2018年-現在)
 - 宮城県生物部会研修会 (2023年)
+ 
 ---
-# 業績
-# 原著論文
-- Hisashi Nasukawa, Ryosuke Tajima, Maria Clarinda Filomena Pereira, Joao Antonio Pedro, Satoshi Nakamura, Monrawee Fukuda, Junji Koide, Tetsuji Oya, Koki Homma, 2025. Management strategies for regenerative agriculture based on the assessment of soil fertility in northern Mozambique. Geoderma Regional, 40, e00912.
+# 論文等
+- Nasukawa, H. and Tajima, R. 2025. Preliminary Results on the Application of Phosphorus and Silicon to Improve the Post-Transplantation Growth of High-Density Nursery Seedlings. Agronomy 2025, 15, 937.
 
-- Hisashi Nasukawa, Yoshiki Kuwabara, Kenichi Tatsumi, Ryosuke Tajima, 2025. Rice yield and energy balance in an agrivoltaic system established in Shonai plain, northern Japan, Science of The Total Environment, 959, 178315.
+- Qiuzhi Rui, Ryosuke Tajima, Rongling Ye, Emi Kameoka, Donghe Xu and Koki Homma. 2025. A method for estimating root volume and total root length using images of soybean root in hydroculture taken by digital camera. Plant Root 19:30-37.
+
+- Nasukawa, Hisashi, Ryosuke Tajima, Maria Clarinda Filomena Pereira, Joao Antonio Pedro, Satoshi Nakamura, Monrawee Fukuda, Junji Koide, Tetsuji Oya, Koki Homma, 2025. Management strategies for regenerative agriculture based on the assessment of soil fertility in northern Mozambique. Geoderma Regional, 40, e00912.
+
+- Nasukawa, Hisashi, Yoshiki Kuwabara, Kenichi Tatsumi, Ryosuke Tajima, 2025. Rice yield and energy balance in an agrivoltaic system established in Shonai plain, northern Japan, Science of The Total Environment, 959, 178315.
 
 
 - Lu, C.; Sugihara, S.; Noma, S.; Tanaka, H.; Tajima, R.; Matsumoto, S.; Hirose, D.;
 Zhang, X.; Wang, N.; Ban, T. Phosphorus Dynamics in Managed and Natural Soils: SEM-PLS Analysis of Vaccinium, Forest, and Grassland Ecosystems. Plants 2025, 14, 189.
 
 - Lu, C.; Sugihara, S.; Tanaka, H.; Tajima, R.; Matsumoto, S.; Ban, T. Phosphorus Dynamics in Japanese Blueberry Field: Long-Term Accumulation and Fractionation across Soil Types and Depths. Agronomy2024,14,1947.
-
+ 
+---
 - Jung, H., Tajima, R., Ye, R., Hashimoto, N., Yang, Y., Yamamoto, S., Homma, K. 2023. Utilization of UAV Remote Sensing in Plant-Based Field Experiments: A Case Study of the Evaluation of LAI in a Small-Scale Sweetcorn Experiment.Agriculture. 13: 561.
 
 - Nasukawa H., Tajima, R., Maria Clarinda Filomena Pereira, Nakamura S., Fukuda M., Naruo, K., Egami, T., Oya T. and Ito, T. Comparative verification of Mehlich 3 soil analysis methods in Northern Mozambique using microwave plasma–atomic emission spectrometry, Soil Science and Plant Nutrition, 69:5-6, 327-336.
@@ -124,7 +128,7 @@ Zhang, X.; Wang, N.; Ban, T. Phosphorus Dynamics in Managed and Natural Soils: S
 - Akamatsu Y, Tajima R, Uno T, Ito T, Nishida M and Saito M. 2022. Characterization of root traits for phosphorus deficiency tolerance using chromosome segment substitution lines. Plant Root 16: 21-30.
 
 - Matsuoka-Uno, C., Uno, T., Tajima, R., Ito, T. and Saito, M. 2022. Liming and Phosphate Application Influence Soil Carbon and Nitrogen Mineralization Differently in Response to Temperature Regimes in Allophanic Andosols. Agriculture. 12: 142.
----
+
 - Susilawati, P. N., Tajima, R., Giamerti, Y., Yang, Y., Yufdy, M. P., Lubis, I. and Homma, K. 2022. Application of consecutive polyethylene glycol treatments for modeling the seminal root growth of rice under water stress. Scientific Reports. 12: 2096.
 
 - Suzuki, T., Uno, T., Tajima, R., Ito, T. and Saito, M. 2021. Optimum range of soil phosphorus fertility needed for effective arbuscular mycorrhizal inoculation of Welsh onions in a non-allophanic Andosol. Soil Science and Plant Nutrition 67(5): 540-544.
@@ -133,8 +137,12 @@ Zhang, X.; Wang, N.; Ban, T. Phosphorus Dynamics in Managed and Natural Soils: S
 
 - Uno, T., R. Tajima, K. Suzuki, M. Nishida, T. Ito, M. Saito. 2021. Rice yields and the effect of weed management in an organic production system with winter flooding. Plant Production Science. 24(4): 405-417.
 
-- 浅見秀則, 三浦佑水, 渡部智寛, 宇野亨, 田島亮介, 齋藤雅典, 伊藤豊彰. 2020. 酒造好適米水稲品種「トヨニシキ」の玄米品質に対するケイ酸質肥料施用の効果. 日本土壌肥料学雑誌. 91(1): 11-20.
 
+- 田島亮介. 2021. 複数画像の自動解析が可能な根長評価のための ImageJ マクロの公開. 根の研究. 30(1): 13-14.
+
+- 浅見秀則, 三浦佑水, 渡部智寛, 宇野亨, 田島亮介, 齋藤雅典, 伊藤豊彰. 2020. 酒造好適米水稲品種「トヨニシキ」の玄米品質に対するケイ酸質肥料施用の効果. 日本土壌肥料学雑誌. 91(1): 11-20.
+ 
+---
 - 小原香澄, 本間香貴, 田島亮介, 牧雅康, 齋藤裕樹, 橋本直之, 山本修平, 本郷千春. 2020. UAVリモートセンシングに基づく水稲のSPAD値推定に関する検討. 日本作物学会紀事 89(1): 50-51.
 
 - Moritsuka, N., Saito, H., Tajima, R., Takahashi Y., Hirai, H. 2019. Farm-Scale Estimation of Total Nitrogen Content in Surface Paddy Soils by Extraction with Commercially Available Hydrogen Peroxide, Agronomy 10: 40.
@@ -144,7 +152,7 @@ Zhang, X.; Wang, N.; Ban, T. Phosphorus Dynamics in Managed and Natural Soils: S
 - 大嶋健資, 鈴木貴恵, 宇野亨, 田島亮介, 伊藤豊彰, 齋藤雅典. 2019. 菌根菌活用型ネギ栽培のための育苗用培土の開発．土と微生物 73(2): 79–85.
 
 - Yamane, K., R. C. Mabesa-Telosa, R. Tajima, N. P. M. C. Banayo, Y. Kato. 2019. A simple, low-cost technique for in situ measurement of leaf P concentration in field-grown rice. Journal of Plant Nutrition and Soil Science. 182(1): 28-30.
----
+
 - Seto, R., N. Moritsuka, K. Fujisao, A. Toriumi, K. Homma, R. Tajima, Y. Kato, J. Yamagishi, P. Mekwatanakarn, B. Jongdee. 2018. Mild drying of sandy soil can physically limit the uptake of phosphorus by rainfed lowland rice in northeast Thailand. Soil Science and Plant Nutrition. 64. 677-685.
 
 - Kato, Y., R. Tajima, A. Toriumi, K. Homma, N. Moritsuka, T. Shiraiwa, J. Yamagishi, P. Mekwatanakern, V. Chamarerk, B. Jongdee. 2016. Grain yield and phosphorus uptake of rainfed lowland rice under unsubmerged soil stress. Field Crops Research. 190: 54-59.
@@ -153,10 +161,13 @@ Zhang, X.; Wang, N.; Ban, T. Phosphorus Dynamics in Managed and Natural Soils: S
 
 - 鈴木貴恵, 田島亮介, 原新太郎, 清水利規, 宇野亨, 伊藤豊彰, 齋藤雅典. 2015. リン酸肥沃度の高い圃場におけるアーバスキュラー菌根菌：ネギへの接種効果と土着AM菌の分離. 土と微生物 69. 48-57.
 
+- 田島亮介. 2014. ImageJを用いた画像解析による根長の評価. 根の研究. 23. 75-81.
+
 - 田島亮介, 山本岳彦, 大村道明, 中井裕, 伊藤豊彰, 齋藤雅典. 2013. 水産加工廃棄物由来アシドロコンポストの製造・利用段階における温室効果ガス排出量の評価. 日本LCA学会誌 9. 340-348.
 
 - Tajima, R., T. Suzuki and C. Tada. 2013. Environmental Impacts of Methane Fermentation System Using Hot Springs. Journal of Integrated Field Science. 10. 7-15.
-
+ 
+---
 - Kato, Y., R. Tajima, K. Homma, A. Toriumi, J. Yamagishi, T. Shiraiwa, P. Mekwatanakarn and B. Jongdee. 2013. Root growth response of rainfed lowland rice to aerobic conditions in northeastern Thailand. Plant Soil. 368. 557-567.
 
 - Tajima, R. and Y. Kato 2013. A Quick Method to Estimate Root Length Distribution in Diameter Classes by Using Freeware ImageJ. Plant Production Science. 16. 9-11.
@@ -168,7 +179,7 @@ Zhang, X.; Wang, N.; Ban, T. Phosphorus Dynamics in Managed and Natural Soils: S
 - Koga, N. and R. Tajima. 2011. Assessing energy efficiencies and greenhouse gas emissions under bioethanol-oriented paddy rice production in northern Japan. Journal of Environmental Management. 92. 967-973.
 
 - Kato, Y., M. Okami, R. Tajima, D. Fujita, and N. Kobayashi 2010. Root response to aerobic conditions in rice, estimated by Comair root length scanner and scanner-based image analysis. Field Crops Research. 118. 194-198.
----
+
 - Changdee, T., S. Morita, J. Abe, K Ito, R. Tajima and A Polthanee. 2008. Root anatomical responses to waterlogging at seedling stage of three cordage fiber crops. Plant Production Science. 11. 232-237.
 
 - Tajima, R., J. Abe, ON. Lee, S. Morita and A. Lux. 2008. Developmental changes in peanut root structure during root growth and root structure modification by nodulation. Annals of Botany. 101. 491-499.
@@ -179,26 +190,32 @@ Zhang, X.; Wang, N.; Ban, T. Phosphorus Dynamics in Managed and Natural Soils: S
 - Kimura, S. D., K. Schmidtke, R. Tajima, K. Yoshida, H. Nakashima and R. Rauber. 2004. Seasonal N uptake and N2 fixation by common and adzuki bean at various spacings. Plant and Soil. 258. 91-101.
 
 - 木村園子, 田島亮介, 由田宏一, 中嶋博, 信濃卓郎, 大崎満. 2001. 高CO2条件がサイトウの生育に及ぼす影響―葉におけるデンプンと窒素の集積に関連して. 北海道大学農学部農場研究報告. 32. 7-13.
-
+ 
+---
 # 著書等
-- Fujii, H., Mori, S., Matsumoto, Y., Sasaki, Y., Ito, C., Nakagawa, S., Takahashi, T., Matsuyama, N., Nishida, M., Kaneta, Y., Fujisawa, H., Tanikawa, N., Ando, T., Shiono, H., Shima, T., Aoyama, M., Morioka, M., Ando, T., Tawaraya, K., Sato, T., Takakai, F., Sato, T., Takahashi, T., Ito, M., Cheng, W., Nakajima, M., Ito, T., Nasukawa, H., Uno, T., Tajima, R., Abe, T., Shinano, T., Saito, T., Wakabayashi, S., Fujimura, S., Matsunami, H., Hirayama, T., Kubo, K., Ota, T., Saito, M., Katagiri, T., Ando, K．(2021) Tohoku Region. In The Soils of Japan, edited by Hatano, R., Shinjo, H., Takata. Springer Nature Singapore Pte Ltd., Singapore, pp. 185-244.
+- 田島亮介 2023. ラッカセイ，根っこのふしぎな世界 第2巻 おいしい根っこのひみつは？, 文研出版 (2023/8/31)
 
-- 田島亮介. 2021. 複数画像の自動解析が可能な根長評価のための ImageJ マクロの公開. 根の研究. 30(1): 13-14.
+- 田島亮介 2023. セリ，根っこのふしぎな世界 第2巻 おいしい根っこのひみつは？, 文研出版 (2023/8/31)
+
+- 田島亮介 2024. 植物による構造の違い 草本, 図解でよくわかる 根のきほん, 誠文堂新光社 (2024/10/9)
+
+- 田島亮介 2024. 分岐構造の基本, 図解でよくわかる 根のきほん, 誠文堂新光社 (2024/10/9)
+
+- Fujii, H., Mori, S., Matsumoto, Y., Sasaki, Y., Ito, C., Nakagawa, S., Takahashi, T., Matsuyama, N., Nishida, M., Kaneta, Y., Fujisawa, H., Tanikawa, N., Ando, T., Shiono, H., Shima, T., Aoyama, M., Morioka, M., Ando, T., Tawaraya, K., Sato, T., Takakai, F., Sato, T., Takahashi, T., Ito, M., Cheng, W., Nakajima, M., Ito, T., Nasukawa, H., Uno, T., Tajima, R., Abe, T., Shinano, T., Saito, T., Wakabayashi, S., Fujimura, S., Matsunami, H., Hirayama, T., Kubo, K., Ota, T., Saito, M., Katagiri, T., Ando, K．(2021) Tohoku Region. In The Soils of Japan, edited by Hatano, R., Shinjo, H., Takata. Springer Nature Singapore Pte Ltd., Singapore, pp. 185-244.
 
 - Ito, T., H. Nasukawa, T. Uno, R. Tajima, M. Saito. 2018. Recovery of Tsunami-Affected Paddy Soil Using Calcium Materials for Sustainable Agriculture. Journal of Integrated Field Science. 15. 55-58.
 
 - Tajima R. 2018. Root Phenotyping with Root Modeling- Towards Sustainable Rice Production. Journal of Integrated Field Science. 15. 48-50.
----
+
 - 浅川晋, 末國千佳, 劉冬艶, 秋田和則, 宇野亨, 田島亮介, 伊藤豊彰, 齋藤雅典. 2016. 冬期湛水が水田の土壌微生物群集に及ぼす影響. 農業および園芸，91. 129-139.
 
 - 大村道明, 田島亮介. 2015. コンポストのLCA. 中井裕, 伊藤豊彰, 大村道明, 勝呂元編著. コンポスト科学 -環境の時代の研究最前線-. pp221-231. 東北大学出版会, 仙台. 単行本：286ページ, 発刊日：2015年7月10日. ISBN-13, 978-4-861-63234-1.
 
-- 田島亮介. 2014. ImageJを用いた画像解析による根長の評価. 根の研究. 23. 75-81.
-
 - 阿部淳, 田島亮介. 2008. その他のイネ科作物 (トウモロコシ，雑穀). 大門弘幸編著 見てわかる農学シリーズ３ 作物学概論．pp113−131. 朝倉書店, 東京. 単行本：196ページ，発刊日：2008年2月20日. ISBN-13, 978-4-254-40543-9.
 
 - 森田茂紀, 田島亮介. 監訳 2008. 根の生態学 (H. デ クルーン／E.J.W. フィッサー 編) シュプリンガー，ジャパン, 東京. 単行本, 364ページ，発刊日：2008年2月6日 ISBN-13, 978-4-431-72735-4.
-
+ 
+---
 - 田島亮介. 2008. ラッカセイにおける根系形成，根粒形成と窒素固定能力との関係. 根の研究. 17. 5-10.
 
 - 田島亮介, 塚本葉子, 森田茂紀. 2007. 土壌中のリン吸収に関わるマメ科作物根系の反応. 農業および園芸. 82. 925-929.
@@ -206,5 +223,3 @@ Zhang, X.; Wang, N.; Ban, T. Phosphorus Dynamics in Managed and Natural Soils: S
 - 田島亮介, 森田茂紀, 阿部淳. 2006. マメ科作物の根系形成の捉え方. 農業および園芸. 81. 722−725.
 
 - 田島亮介, 森田茂紀, 阿部淳. 2004. マメ科作物の個体レベルの窒素固定能力と根系形成，根粒形成との関係. 農業および園芸. 79. 810-814.
-
-## 以上
