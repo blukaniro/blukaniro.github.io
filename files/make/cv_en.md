@@ -4,39 +4,47 @@ paginate: false
 theme: doc
 ---
 
-## 2025-04-15
+## 2026-01-24
 # TAJIMA Ryosuke, Ph.D
 - Agronomist | Modeler | Root scientist
 
 # Academic Degrees
-- BSc 2001 Faculty of Agriculture, Hokkaido University
-- MSc 2003 Graduate School of Agriculture, Hokkaido University
 - Ph.D 2006 Graduate School of Agricultural and Life Sciences, the University of Tokyo
+- MSc 2003 Graduate School of Agriculture, Hokkaido University
+- BSc 2001 Faculty of Agriculture, Hokkaido University
 
 # Professional Experience
-- April 2006 - October 2007:
-    Post doctoral Fellow, Field Production Science Center, Graduate School of Agricultural and Life Sciences, the University of Tokyo
-- November 2007 - April 2008:
-    Post doctoral Fellow, National Agricultural Research Center for Hokkaido Region on loan from Hokkaido Intellect Tank
-- May 2008 - September 2022:
-    Assistant Professor, Field Science Center, Graduate School of Agriculture Science, Tohoku University
 - October 2022 - current:
     Associate Professor, Field Science Center, Graduate School of Agriculture Science, Tohoku University
+- May 2008 - September 2022:
+    Assistant Professor, Field Science Center, Graduate School of Agriculture Science, Tohoku University
+- November 2007 - April 2008:
+    Post doctoral Fellow, National Agricultural Research Center for Hokkaido Region on loan from Hokkaido Intellect Tank
+- April 2006 - October 2007:
+    Post doctoral Fellow, Field Production Science Center, Graduate School of Agricultural and Life Sciences, the University of Tokyo
  
 ---
 # Papers
-- Nasukawa, H. and Tajima, R. 2025. Preliminary Results on the Application of Phosphorus and Silicon to Improve the Post-Transplantation Growth of High-Density Nursery Seedlings. Agronomy 2025, 15, 937.
+- Nasukawa, H., Tajima, R. 2026. Paddy rice growth and yield under high-density nursery techniques for efficient mechanized transplanting in Japan. Field Crops Research. 335: 110200.
 
-- Qiuzhi Rui, Ryosuke Tajima, Rongling Ye, Emi Kameoka, Donghe Xu and Koki Homma. 2025. A method for estimating root volume and total root length using images of soybean root in hydroculture taken by digital camera. Plant Root 19:30-37.
+- Nasukawa, H., Tsumuraya, S., and Tajima, R. 2026. Soil-Specific Redox Effects on Phosphorus Availability and Diagnostic Approaches in Flooded Paddy Soils. Agronomy. 16: 51.
 
-- Nasukawa, Hisashi, Ryosuke Tajima, Maria Clarinda Filomena Pereira, Joao Antonio Pedro, Satoshi Nakamura, Monrawee Fukuda, Junji Koide, Tetsuji Oya, Koki Homma, 2025. Management strategies for regenerative agriculture based on the assessment of soil fertility in northern Mozambique. Geoderma Regional, 40, e00912.
+- Tajima, R., Kato, Y., Moritsuka, N., Homma, K., Yamagishi, J., Shiraiwa, T., and Jongdee, B. 2025. Root plasticity and nutrient uptake in rainfed lowland rice under nitrogen and phosphorus fertilizer management. Crop and Environment. 4: 263–270.
 
-- Nasukawa, Hisashi, Yoshiki Kuwabara, Kenichi Tatsumi, Ryosuke Tajima, 2025. Rice yield and energy balance in an agrivoltaic system established in Shonai plain, northern Japan, Science of The Total Environment, 959, 178315.
+- Tsumuraya, S., Nasukawa, H., and Tajima, R. 2025. Estimation of Available Phosphorus Under Phosphorus Fertilization in Paddy Fields of a Cold Region Using Several Extraction Methods: A Case Study from Yamagata, Japan. Agriculture. 15: 1453.
+
+- Nasukawa, H. and Tajima, R. 2025. Preliminary Results on the Application of Phosphorus and Silicon to Improve the Post-Transplantation Growth of High-Density Nursery Seedlings. Agronomy. 15: 937.
+
+- Rui, Q., Tajima, R., Ye, R., Kameoka, E., Xu, D., and Homma, K. 2025. A method for estimating root volume and total root length using images of soybean root in hydroculture taken by digital camera. Plant Root. 19: 30-37.
+
+- Nasukawa, H., Tajima, R., Pereira, M. C. F., Pedro, J. A., Nakamura, S., Fukuda, M., Koide, J., Oya, T., and Homma, K. 2025. Management strategies for regenerative agriculture based on the assessment of soil fertility in northern Mozambique. Geoderma Regional. 40: e00912.
+
+- Nasukawa, H., Yoshiki Kuwabara, Kenichi Tatsumi, Ryosuke Tajima, 2025. Rice yield and energy balance in an agrivoltaic system established in Shonai plain, northern Japan, Science of The Total Environment. 959: 178315.
 
 - Lu, C.; Sugihara, S.; Noma, S.; Tanaka, H.; Tajima, R.; Matsumoto, S.; Hirose, D.;
-Zhang, X.; Wang, N.; Ban, T. Phosphorus Dynamics in Managed and Natural Soils: SEM-PLS Analysis of Vaccinium, Forest, and Grassland Ecosystems. Plants 2025, 14, 189.
+Zhang, X.; Wang, N.; Ban, T. 2025. Phosphorus Dynamics in Managed and Natural Soils: SEM-PLS Analysis of Vaccinium, Forest, and Grassland Ecosystems. Plants. 14: 189.
 
-- Lu, C.; Sugihara, S.; Tanaka, H.; Tajima, R.; Matsumoto, S.; Ban, T. Phosphorus Dynamics in Japanese Blueberry Field: Long-Term Accumulation and Fractionation across Soil Types and Depths. Agronomy2024,14,1947.
+- Lu, C.; Sugihara, S.; Tanaka, H.; Tajima, R.; Matsumoto, S.; Ban, T. 2024. Phosphorus Dynamics in Japanese Blueberry Field: Long-Term Accumulation and Fractionation across Soil Types and Depths. Agronomy. 14: 1947.
  
 ---
 - Jung, H., Tajima, R., Ye, R., Hashimoto, N., Yang, Y., Yamamoto, S., Homma, K. 2023. Utilization of UAV Remote Sensing in Plant-Based Field Experiments: A Case Study of the Evaluation of LAI in a Small-Scale Sweetcorn Experiment.Agriculture. 13: 561.
