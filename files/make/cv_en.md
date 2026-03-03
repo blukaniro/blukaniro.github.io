@@ -8,13 +8,13 @@ theme: doc
 # TAJIMA Ryosuke, Ph.D
 - Agronomist | Modeler | Root scientist
 
-# Academic Degrees
+# EDUCATION
 - Ph.D 2006 Graduate School of Agricultural and Life Sciences, the University of Tokyo
 - MSc 2003 Graduate School of Agriculture, Hokkaido University
 - BSc 2001 Faculty of Agriculture, Hokkaido University
 
-# Professional Experience
-- October 2022 - current:
+# PROFESSIONAL EXPERIENCE
+- October 2022 - current
     Associate Professor, Field Science Center, Graduate School of Agriculture Science, Tohoku University
 - May 2008 - September 2022:
     Assistant Professor, Field Science Center, Graduate School of Agriculture Science, Tohoku University
@@ -22,9 +22,8 @@ theme: doc
     Post doctoral Fellow, National Agricultural Research Center for Hokkaido Region on loan from Hokkaido Intellect Tank
 - April 2006 - October 2007:
     Post doctoral Fellow, Field Production Science Center, Graduate School of Agricultural and Life Sciences, the University of Tokyo
- 
----
-# Papers
+
+# PUBLICATIONS
 - Nasukawa, H., Tajima, R. 2026. Paddy rice growth and yield under high-density nursery techniques for efficient mechanized transplanting in Japan. Field Crops Research. 335: 110200.
 
 - Nasukawa, H., Tsumuraya, S., and Tajima, R. 2026. Soil-Specific Redox Effects on Phosphorus Availability and Diagnostic Approaches in Flooded Paddy Soils. Agronomy. 16: 51.
@@ -34,7 +33,9 @@ theme: doc
 - Tsumuraya, S., Nasukawa, H., and Tajima, R. 2025. Estimation of Available Phosphorus Under Phosphorus Fertilization in Paddy Fields of a Cold Region Using Several Extraction Methods: A Case Study from Yamagata, Japan. Agriculture. 15: 1453.
 
 - Nasukawa, H. and Tajima, R. 2025. Preliminary Results on the Application of Phosphorus and Silicon to Improve the Post-Transplantation Growth of High-Density Nursery Seedlings. Agronomy. 15: 937.
-
+ 
+---
+ 
 - Rui, Q., Tajima, R., Ye, R., Kameoka, E., Xu, D., and Homma, K. 2025. A method for estimating root volume and total root length using images of soybean root in hydroculture taken by digital camera. Plant Root. 19: 30-37.
 
 - Nasukawa, H., Tajima, R., Pereira, M. C. F., Pedro, J. A., Nakamura, S., Fukuda, M., Koide, J., Oya, T., and Homma, K. 2025. Management strategies for regenerative agriculture based on the assessment of soil fertility in northern Mozambique. Geoderma Regional. 40: e00912.
@@ -45,8 +46,7 @@ theme: doc
 Zhang, X.; Wang, N.; Ban, T. 2025. Phosphorus Dynamics in Managed and Natural Soils: SEM-PLS Analysis of Vaccinium, Forest, and Grassland Ecosystems. Plants. 14: 189.
 
 - Lu, C.; Sugihara, S.; Tanaka, H.; Tajima, R.; Matsumoto, S.; Ban, T. 2024. Phosphorus Dynamics in Japanese Blueberry Field: Long-Term Accumulation and Fractionation across Soil Types and Depths. Agronomy. 14: 1947.
- 
----
+
 - Jung, H., Tajima, R., Ye, R., Hashimoto, N., Yang, Y., Yamamoto, S., Homma, K. 2023. Utilization of UAV Remote Sensing in Plant-Based Field Experiments: A Case Study of the Evaluation of LAI in a Small-Scale Sweetcorn Experiment.Agriculture. 13: 561.
 
 - Nasukawa H., Tajima, R., Maria Clarinda Filomena Pereira, Nakamura S., Fukuda M., Naruo, K., Egami, T., Oya T. and Ito, T. Comparative verification of Mehlich 3 soil analysis methods in Northern Mozambique using microwave plasma–atomic emission spectrometry, Soil Science and Plant Nutrition, 69:5-6, 327-336.
@@ -56,7 +56,9 @@ Zhang, X.; Wang, N.; Ban, T. 2025. Phosphorus Dynamics in Managed and Natural So
 - Akamatsu Y, Tajima R, Uno T, Ito T, Nishida M and Saito M. 2022. Characterization of root traits for phosphorus deficiency tolerance using chromosome segment substitution lines. Plant Root 16: 21-30.
 
 - Matsuoka-Uno, C., Uno, T., Tajima, R., Ito, T. and Saito, M. 2022. Liming and Phosphate Application Influence Soil Carbon and Nitrogen Mineralization Differently in Response to Temperature Regimes in Allophanic Andosols. Agriculture. 12: 142.
-
+ 
+---
+ 
 - Susilawati, P. N., Tajima, R., Giamerti, Y., Yang, Y., Yufdy, M. P., Lubis, I. and Homma, K. 2022. Application of consecutive polyethylene glycol treatments for modeling the seminal root growth of rice under water stress. Scientific Reports. 12: 2096.
 
 - Suzuki, T., Uno, T., Tajima, R., Ito, T. and Saito, M. 2021. Optimum range of soil phosphorus fertility needed for effective arbuscular mycorrhizal inoculation of Welsh onions in a non-allophanic Andosol. Soil Science and Plant Nutrition 67(5): 540-544.
@@ -64,8 +66,7 @@ Zhang, X.; Wang, N.; Ban, T. 2025. Phosphorus Dynamics in Managed and Natural So
 - Fujii, H., Mori, S., Matsumoto, Y., Sasaki, Y., Ito, C., Nakagawa, S., Takahashi, T., Matsuyama, N., Nishida, M., Kaneta, Y., Fujisawa, H., Tanikawa, N., Ando, T., Shiono, H., Shima, T., Aoyama, M., Morioka, M., Ando, T., Tawaraya, K., Sato, T., Takakai, F., Sato, T., Takahashi, T., Ito, M., Cheng, W., Nakajima, M., Ito, T., Nasukawa, H., Uno, T., Tajima, R., Abe, T., Shinano, T., Saito, T., Wakabayashi, S., Fujimura, S., Matsunami, H., Hirayama, T., Kubo, K., Ota, T., Saito, M., Katagiri, T., Ando, K．(2021) Tohoku Region. In The Soils of Japan, edited by Hatano, R., Shinjo, H., Takata. Springer Nature Singapore Pte Ltd., Singapore, pp. 185-244.
 
 - Tajima, R. 2021. Importance of individual root traits to understand crop root system in agronomic and environmental contexts. Breeding Science 71(1): 13-19.
- 
----
+
 - Uno, T., R. Tajima, K. Suzuki, M. Nishida, T. Ito, M. Saito. 2021. Rice yields and the effect of weed management in an organic production system with winter flooding. Plant Production Science. 24(4): 405-417.
 
 - Moritsuka, N., Saito, H., Tajima, R., Takahashi Y., Hirai, H. 2019. Farm-Scale Estimation of Total Nitrogen Content in Surface Paddy Soils by Extraction with Commercially Available Hydrogen Peroxide, Agronomy 10: 40.
@@ -76,7 +77,9 @@ Zhang, X.; Wang, N.; Ban, T. 2025. Phosphorus Dynamics in Managed and Natural So
 - Seto, R., N. Moritsuka, K. Fujisao, A. Toriumi, K. Homma, R. Tajima, Y. Kato, J. Yamagishi, P. Mekwatanakarn, B. Jongdee. 2018. Mild drying of sandy soil can physically limit the uptake of phosphorus by rainfed lowland rice in northeast Thailand. Soil Science and Plant Nutrition. 64. 677-685.
 
 - Ito, T., H. Nasukawa, T. Uno, R. Tajima, M. Saito. 2018. Recovery of Tsunami-Affected Paddy Soil Using Calcium Materials for Sustainable Agriculture. Journal of Integrated Field Science. 15. 55-58.
-
+ 
+---
+ 
 - Tajima R. 2018. Root Phenotyping with Root Modeling- Towards Sustainable Rice Production. Journal of Integrated Field Science. 15. 48-50.
 
 - Kato, Y., R. Tajima, A. Toriumi, K. Homma, N. Moritsuka, T. Shiraiwa, J. Yamagishi, P. Mekwatanakern, V. Chamarerk, B. Jongdee. 2016. Grain yield and phosphorus uptake of rainfed lowland rice under unsubmerged soil stress. Field Crops Research. 190: 54-59.
@@ -86,8 +89,7 @@ Zhang, X.; Wang, N.; Ban, T. 2025. Phosphorus Dynamics in Managed and Natural So
 - Kato, Y., R. Tajima, K. Homma, A. Toriumi, J. Yamagishi, T. Shiraiwa, P. Mekwatanakarn and B. Jongdee. 2013. Root growth response of rainfed lowland rice to aerobic conditions in northeastern Thailand. Plant Soil. 368. 557-567.
 
 - Tajima, R. and Y. Kato 2013. A Quick Method to Estimate Root Length Distribution in Diameter Classes by Using Freeware ImageJ. Plant Production Science. 16. 9-11.
- 
----
+
 - Tajima, R. and Y. Kato 2011. Comparison of threshold algorithms for automatic image processing of rice roots using freeware ImageJ. Field Crops Research. 121. 460-463.
 
 - Koga, N. and R. Tajima. 2011. Assessing energy efficiencies and greenhouse gas emissions under bioethanol-oriented paddy rice production in northern Japan. Journal of Environmental Management. 92. 967-973.
@@ -100,5 +102,7 @@ Zhang, X.; Wang, N.; Ban, T. 2025. Phosphorus Dynamics in Managed and Natural So
 
 - Tajima, R., ON. Lee, J. Abe, A. Lux and S. Morita. 2007. Nitrogen-fixing activity of root nodules in relation to their size in peanut (Arachis hypogaea L.). Plant Production Science. 10. 423-429.
 - Tajima, R., S. Morita and J. Abe. 2006. Distribution Pattern of Root Nodules in Relation to Root Architecture in Two Leading Cultivars of Peanut (Arachis hypogaea L.) in Japan. Plant Production Science. 9. 249-255.
-
+ 
+---
+ 
 - Kimura, S. D., K. Schmidtke, R. Tajima, K. Yoshida, H. Nakashima and R. Rauber. 2004. Seasonal N uptake and N2 fixation by common and adzuki bean at various spacings. Plant and Soil. 258. 91-101.
